@@ -1,0 +1,9 @@
+ul{margin:30px 0;}
+ul.blue li{color:white; background:#6699ff; text-shadow: 2px 2px #003399;
+text-align:center; font-size:16px; width:150px; border-bottom: 2px outset #6699ff;
+padding:5px 0;
+}
+ul.green li{color:white; background:#33cc8f; text-shadow: 2px 2px #248f64;
+text-align:center; font-size:16px; width:150px; border-bottom: 2px outset #33cc8f;
+padding:5px 0;
+}
